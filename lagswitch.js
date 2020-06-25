@@ -1,5 +1,5 @@
 const ssfDir = "C:\\Users\\{{YourUsernameHere}}\\bin\\ssf-win-x86_64-3.0.0";
-const configFilePath = "C:\\Users\\{{YourUsernameHere}}\\.config\\dbd-port-scanner\\config.json"
+const configFilePath = "C:\\Users\\{{YourUsernameHere}}\\.config\\dbd-packet-scanner\\config.json"
 
 const { spawn } = require('child_process');
 const fs = require('fs');
